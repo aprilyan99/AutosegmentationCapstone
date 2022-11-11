@@ -1,3 +1,4 @@
+*.
 .Rhistory
 .viminfo
 **/__pycache__

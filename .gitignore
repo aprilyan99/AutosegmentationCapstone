@@ -1,6 +1,3 @@
-*.
-.Rhistory
-.viminfo
 **/__pycache__
 *.pyc
 .DS_Store

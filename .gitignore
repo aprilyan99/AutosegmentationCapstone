@@ -1,0 +1,14 @@
+.Rhistory
+.viminfo
+**/__pycache__
+*.pyc
+.DS_Store
+
+*~
+*.bak
+*.swp
+*.zip
+
+.bash_history
+**/.cache
+**/.local
